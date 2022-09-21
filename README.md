@@ -1,2 +1,2 @@
 ### Hi there 👋
-### email📩 : dksdbswl10430@naver.com
+### Email 📩 : dksdbswl10430@naver.com
