@@ -1,4 +1,7 @@
-Hi there 👋<br/> 
-I'm a FE developer 👩🏻‍💻<br/> 
-I'm interested in DX & UX 🫶<br/> 
-안녕하세요 👋 반갑습니다 🤝 
+### Hi there 👋
+### I'm ...
+- I'm a FE developer 👩🏻‍💻<br/> 
+- I'm interested in DX & UX 🫶<br/> 
+
+### Portfolio
+- https://yunji.oopy.io/
